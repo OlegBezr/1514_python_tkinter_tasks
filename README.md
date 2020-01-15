@@ -1,1 +1,1 @@
-Режим вывода команд на экран (ECHO) включен.
+Some solved tasks from lessons of 1514 Moscow school.
