@@ -1,1 +1,1 @@
-Some solved tasks from lessons of 1514 Moscow school.
+Some solved tasks from informatics lessons of 1514 Moscow school.
